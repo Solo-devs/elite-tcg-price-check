@@ -1,11 +1,12 @@
 {
-  "name": "Elite TCG Price Check",
+  "name": "Elite TCG Product Finder",
   "short_name": "Elite TCG",
   "start_url": "./",
+  "scope": "./",
   "display": "standalone",
-  "background_color": "#0b1220",
-  "theme_color": "#101827",
-  "description": "Canadian Pokemon TCG MSRP and private-sale reference",
+  "background_color": "#07101d",
+  "theme_color": "#0b1220",
+  "description": "Pokémon TCG Canadian MSRP, product reference, retailer finder and deal checker",
   "icons": [
     {
       "src": "icon-192.png",
